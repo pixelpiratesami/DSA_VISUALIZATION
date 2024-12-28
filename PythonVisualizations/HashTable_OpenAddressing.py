@@ -206,3 +206,4 @@ class HashTable(object):    # A hash table using open addressing
 
    def peek(self, i):       # Peek at contents of cell i
       return self.__table[i]
+#14

@@ -1378,3 +1378,4 @@ if __name__ == '__main__':
         quadtree.randomFill(args.random)
 
     quadtree.runVisualization()
+#25

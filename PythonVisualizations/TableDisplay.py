@@ -412,3 +412,4 @@ if __name__ == '__main__':
               tbl.label, 'table are:', tbl.items())
         
     app.runVisualization()
+#35

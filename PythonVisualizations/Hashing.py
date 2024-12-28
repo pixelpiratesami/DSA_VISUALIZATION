@@ -113,3 +113,4 @@ def quadraticProbeCoverage(maxArraySize=555, minArraySize=5, step=1):
    return [(size, len({i ** 2 % size for i in range(5 * size)}) / size,
             is_prime(size))
            for size in range(minArraySize, maxArraySize + 1, step)]
+#13

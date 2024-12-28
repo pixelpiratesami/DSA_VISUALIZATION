@@ -342,3 +342,4 @@ class HashBase(VisualizationApp):
                 *coords[1], text=name or '', anchor=SE if level > 0 else SW,
                 font=font, fill=color))
         return items
+#12

@@ -1082,3 +1082,4 @@ class VisualizationApp(Visualization): # Base class for visualization apps
                         self.HOVER_DELAY, 
                         lambda: self.setHint(widget) or setattr(widget, 'timeout_ID', None)))
         self.window.mainloop()
+#41

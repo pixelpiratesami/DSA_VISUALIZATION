@@ -405,3 +405,4 @@ if __name__ == '__main__':
 
     array = Mergesort(values=[int(arg) for arg in nonneg] if nonneg else None)
     array.runVisualization()
+#20

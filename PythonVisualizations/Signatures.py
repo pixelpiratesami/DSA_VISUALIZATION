@@ -11,3 +11,4 @@ def keywordParameters(
    return spec.args[len(spec.args) - 
                     (len(spec.defaults) if spec.defaults else 0):] + list(
                        spec.kwonlyargs or ())
+#30

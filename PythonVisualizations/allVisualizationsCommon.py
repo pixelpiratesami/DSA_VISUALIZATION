@@ -117,7 +117,7 @@ These visualizations were thoughtfully developed by students from
 the Computer Science Department at PSIT Kanpur, showcasing
  our passion for innovation and learning.
 """
-
+#2
 def openURL(URL):         # Make a callback function to open an URL
     return lambda e: webbrowser.open(URL)
 

@@ -919,3 +919,4 @@ if __name__ == '__main__':
             app.canvas.tag_bind(item, '<Button-1>', toggleScroll)
 
     app.runVisualization()
+#40

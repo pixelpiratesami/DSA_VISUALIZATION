@@ -357,3 +357,4 @@ if __name__ == '__main__':
 
     array = OrderedArray(values=[int(arg) for arg in nonneg] if nonneg else None)
     array.runVisualization()
+#21

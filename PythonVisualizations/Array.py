@@ -78,3 +78,4 @@ if __name__ == '__main__':
     array = Array(values=[int(a) for a in nonneg] if nonneg else None)
 
     array.runVisualization()
+#3

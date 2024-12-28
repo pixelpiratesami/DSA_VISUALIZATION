@@ -211,3 +211,4 @@ if __name__ == '__main__':
     for exp in expressions:
         print('{} evaluates to '.format(exp), end='')
         print(repr(eval(exp, globals())))
+#8

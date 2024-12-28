@@ -355,3 +355,4 @@ if __name__ == '__main__':
     queue.list = [drawnValue(key, None, None) for key in keys]
     queue.display()
     queue.runVisualization()
+#24
