@@ -100,13 +100,7 @@ python DatastructureVisualizations.py
 | **Tkinter** | GUI framework for desktop interface and animations |
 | **Replit** | Development and prototyping environment |
 
----
 
-## 📸 Screenshots
-
-> *(Add screenshots of your running application here to make the README more visually appealing!)*
-
----
 
 ## 📚 Algorithms & Data Structures Covered
 
